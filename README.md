@@ -11,8 +11,8 @@ Driven by my passion for IT and cybersecurity, I am eager to transition into the
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Active Directory Project|
-| Configuring and managing Active Directory (AD) | Active Directory Project|
+| SIEM Implementation and Log Analysis          | Active Directory Home Lab|
+| Configuring and managing Active Directory (AD) | Active Directory Home Lab|
 
 ## Tools
 
@@ -39,4 +39,4 @@ Driven by my passion for IT and cybersecurity, I am eager to transition into the
 <img src="https://img.shields.io/badge/-CEH-EE0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 
 ## Projects
-- Active Directory Project
+- Active Directory Home Lab
