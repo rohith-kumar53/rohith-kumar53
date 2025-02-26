@@ -11,8 +11,8 @@ Driven by my passion for IT and cybersecurity, I am eager to transition into the
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Active Directory Home Lab|
-| Configuring and managing Active Directory (AD) | Active Directory Home Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/rohith-kumar53/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
+| Configuring and managing Active Directory (AD) |<a href="https://github.com/rohith-kumar53/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
 
 ## Tools
 
@@ -39,4 +39,4 @@ Driven by my passion for IT and cybersecurity, I am eager to transition into the
 <img src="https://img.shields.io/badge/-CEH-EE0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 
 ## Projects
-- Active Directory Home Lab
+- <a href="https://github.com/rohith-kumar53/Active-Directory-Home-Lab">Active Directory Home Lab</a>
