@@ -1,7 +1,7 @@
 # Hello, I'm Rohith Kumar
 <a href="https://www.linkedin.com/in/rohithkumar-n/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Passionate for cybersecurity, a strong focus on critical thinking, and security analysis.
+Recent graduate with a passion for cybersecurity, a strong focus on critical thinking, and security analysis.
 
 ## Objective
 
