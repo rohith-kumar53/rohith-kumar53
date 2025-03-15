@@ -44,3 +44,4 @@ Driven by my passion for IT and cybersecurity, I am eager to transition into the
 
 ## Projects
 - <a href="https://github.com/rohith-kumar53/Active-Directory-Home-Lab">Active Directory Home Lab</a>
+- <a href="https://github.com/rohith-kumar53/SOC-Automation-Lab">SOC Automation Lab</a>
