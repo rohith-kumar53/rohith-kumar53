@@ -35,7 +35,7 @@ Driven by my passion for IT and cybersecurity, I am eager to transition into the
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-EE1C25?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-EE1C25?style=for-the-badge&logo=Wazuh&logoColor=white&logo=https://wazuh.com/wp-content/uploads/2021/04/wazuh-logo-blue.png" />
 </div>
 
 ## Certifications
