@@ -13,8 +13,8 @@ Driven by my passion for IT and cybersecurity, I am eager to transition into the
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/rohith-kumar53/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
 | Configuring and managing Active Directory (AD) |<a href="https://github.com/rohith-kumar53/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
-| Threat Detection and Response                  |<a href="https://github.com/rohith-kumar53/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Threat Intelligence Integration               |<a href="https://github.com/rohith-kumar53/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Security Workflow Automation                  |<a href="https://github.com/rohith-kumar53/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Threat Detection and Response                 |<a href="https://github.com/rohith-kumar53/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Case Management and Incident Tracking         |<a href="https://github.com/rohith-kumar53/SOC-Automation-Lab">SOC Automation Lab</a>|
 
 ## Tools
