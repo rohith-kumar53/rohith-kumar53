@@ -13,6 +13,9 @@ Driven by my passion for IT and cybersecurity, I am eager to transition into the
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/rohith-kumar53/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
 | Configuring and managing Active Directory (AD) |<a href="https://github.com/rohith-kumar53/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
+| Threat Detection and Response                  |<a href="https://github.com/rohith-kumar53/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Threat Intelligence Integration               |<a href="https://github.com/rohith-kumar53/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Case Management and Incident Tracking         |<a href="https://github.com/rohith-kumar53/SOC-Automation-Lab">SOC Automation Lab</a>|
 
 ## Tools
 
@@ -32,6 +35,7 @@ Driven by my passion for IT and cybersecurity, I am eager to transition into the
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-EE1C25?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
